@@ -6,7 +6,6 @@
 .alt-anime{
     font-size: 17px;
     font-family: Verdana;
-    width: 
 }
 
 .synopsis-anime{
@@ -34,6 +33,7 @@ ul > li{
     flex-direction: column;
     justify-content: space-between;
 }
+
 ul >li:hover{
     background: #FFFFFF;
 }
