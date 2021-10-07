@@ -3,17 +3,10 @@
     flex-flow: row wrap;
     justify-content: space-evenly;
     background-color: aliceblue;
+    font-family: Verdana;
 }
 
-#accueil > a{
-    color: red;
-}
-
-#anime > a{
-    color: red;
-}
-
-#manga > a{
+.current > a{
     color: red;
 }
 

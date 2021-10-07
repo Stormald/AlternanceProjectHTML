@@ -23,7 +23,7 @@ ul{
 
 ul > li{
     margin: 5px;
-    width: 48%;
+    width: 47%;
     min-width: 560px;
     min-height: 500px;
     border: #BADA55 5px solid;
@@ -32,6 +32,7 @@ ul > li{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 10px;
 }
 
 ul >li:hover{
