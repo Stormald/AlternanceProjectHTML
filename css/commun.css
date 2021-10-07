@@ -1,0 +1,29 @@
+#menu{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+}
+
+#accueil > a{
+    color: red;
+}
+
+#anime > a{
+    color: red;
+}
+
+#manga > a{
+    color: red;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Verdana;
+}
+
+body{
+    margin: 0px;
+}
+

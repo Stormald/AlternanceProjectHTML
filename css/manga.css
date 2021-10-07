@@ -1,0 +1,18 @@
+img{
+    height: 200px;
+}
+
+.nom-manga{
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+.auteur-manga{
+    font-size: 17px;
+    font-family: Verdana;
+}
+
+.synopsis-manga{
+    font-size: 14px;
+    font-family: Verdana;
+}
